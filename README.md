@@ -28,4 +28,5 @@
   <li>Leetcode (clone)</li>
   <li>Streamyard</li>
   <li>Google docs (clone)</li>
+  <li>Personal finance app</li>
 </ul>

@@ -26,6 +26,8 @@
 
 <ul>
   <li>Leetcode (clone)</li>
+  <li>Web scrapper</li>
+  <li>Crypto arbitrage</li>
   <li>Streamyard</li>
   <li>Google docs (clone)</li>
   <li>Personal finance app</li>

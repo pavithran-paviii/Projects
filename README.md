@@ -31,4 +31,5 @@
   <li>Streamyard</li>
   <li>Google docs (clone)</li>
   <li>Personal finance app</li>
+  <li>Personal Keep notes/notion (Advanced)</li>
 </ul>
